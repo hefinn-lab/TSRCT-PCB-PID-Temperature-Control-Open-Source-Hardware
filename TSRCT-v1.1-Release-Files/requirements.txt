@@ -1,0 +1,9 @@
+# Combined runtime dependencies of the two supplied V1.1 loggers.
+# Source requirement: Python 3.9 or newer.
+# Unpinned dependency declaration, not a tested-environment lock file.
+pyserial
+openpyxl
+numpy
+pandas
+matplotlib
+Pillow
