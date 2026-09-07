@@ -17,7 +17,7 @@
 // V1.1: Pt100/430 ohm, channel selection, validated rounded step duty, recent
 // baseline window, boundary timestamp, ISR duration/heartbeat cutoffs, watchdog,
 // sensor requalification, repeated terminal telemetry and CRC16 framing.
-// Validation: host logic/replay tests; target compilation and bench tests remain.
+// EXPERIMENTAL TEST-BENCH CHECKS PASSED
 #include <Arduino.h>
 #if !defined(__AVR_ATmega4809__)
 #error "Select Arduino Nano Every (ATmega4809), not classic Nano."
