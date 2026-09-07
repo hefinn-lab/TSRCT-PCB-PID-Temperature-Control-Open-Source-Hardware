@@ -2,6 +2,8 @@
 
 **TSRCT-PCB-01** is an Arduino Nano Every–based temperature-control board for experimental thermal management. It connects two Pt100 or Pt1000 resistance temperature detectors (RTDs) to independent **5 V digital solid-state-relay (SSR) control outputs**, with controller power and host communication through a single USB connection. External SSRs switch a separately powered heater circuit.
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a1a3f5d8-ef99-4d6e-8ecc-c1d42591dc18" />
+
 The accompanying manuscript describes the circuit, analytical tuning methods, experimental results, and limitations. Reported validation uses isolated, dry electrolysis-cell end plates; integration with flowing water and an operating PEM water electrolyser is a subsequent development stage.
 
 ## Basic functions
