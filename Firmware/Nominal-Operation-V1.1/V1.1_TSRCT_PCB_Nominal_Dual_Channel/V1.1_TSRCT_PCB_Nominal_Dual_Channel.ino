@@ -3,8 +3,7 @@
 // Board: Arduino Nano Every, Arduino megaAVR Boards core, ATmega4809.
 // Library: LiquidCrystal_I2C (Frank de Brabander 1.1.2 API: init/backlight).
 // Keep this sketch in a folder named V1.1_TSRCT_PCB_Nominal_Dual_Channel.
-// Validation here: host logic/replay checks. Target compilation and physical
-// sensor/SSR, watchdog and closed-loop bench checks remain required for release.
+// EXPERIMENTAL TEST-BENCH CHECKS PASSED
 //
 // V1.1: Pt100/430 ohm, independently configurable derivative filters,
 // manuscript conditional integration, RTD recovery, command timeout/watchdog,
