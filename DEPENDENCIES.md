@@ -11,8 +11,6 @@ repository release v1.1.1.
 - `Arduino.h`, `Wire.h`, `SPI.h`, AVR interrupt/watchdog headers, and standard C headers come with the selected board toolchain.
 - The modified MAX31865 driver is defined locally in both sketches. **No separate Adafruit_MAX31865, Adafruit BusIO, or PID library is required by these files.** Adafruit attribution remains required for the incorporated code.
 
-The exact Arduino IDE, megaAVR core, and installed LCD library versions used for the release build have not been supplied. Record these with the release rather than assuming the latest versions reproduce an earlier build.
-
 ## Matched files
 
 | Task | Arduino sketch | Python companion |
