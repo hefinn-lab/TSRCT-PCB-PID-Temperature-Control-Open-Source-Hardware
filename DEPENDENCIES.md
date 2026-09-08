@@ -16,9 +16,9 @@ repository release v1.1.1.
 | Task | Arduino sketch | Python companion |
 | --- | --- | --- |
 | Nominal control | `V1.1_TSRCT_PCB_Nominal_Dual_Channel.ino` | `V1.1_TSRCT_PCB_Nominal_Logger.py` |
-| Open-loop identification and analytical tuning | `Analytical-Tuning-uC-Firmware-V1.1.ino` | `Analyitical-Tuning-Logger.py` |
+| Open-loop identification and analytical tuning | `Analytical-Tuning-uC-Firmware-V1.1.ino` | `Analytical-Tuning-Logger.py` |
 
-The spelling `Analyitical` is retained to match the supplied filename. Each `.ino` must be in an Arduino sketch folder with the same basename. Upload only the sketch for the desired task.
+Each `.ino` must be in an Arduino sketch folder with the same basename. Upload only the sketch for the desired task.
 
 ## Python
 
