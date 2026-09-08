@@ -71,7 +71,7 @@ Close Arduino Serial Monitor and replace the example port with the board's port.
 
 ```bash
 python V1.1_TSRCT_PCB_Nominal_Logger.py --port COM4
-python Analyitical-Tuning-Logger.py --port COM5
+python Analytical-Tuning-Logger.py --port COM5
 ```
 
 On Linux, a port may be `/dev/ttyACM0`; on macOS, use the actual `/dev/cu.*` device.
@@ -82,7 +82,7 @@ For offline reconstruction:
 
 ```bash
 python V1.1_TSRCT_PCB_Nominal_Logger.py --rebuild capture.csv
-python Analyitical-Tuning-Logger.py --rebuild capture.csv --controller isimc-pid
+python Analytical-Tuning-Logger.py --rebuild capture.csv --controller isimc-pid
 ```
 
 The analytical logger exports a selected channel's gains; apply the exported settings to the corresponding nominal-firmware channel. Default hardware settings in the supplied sketches are three-wire Pt100, 430 ohm reference conversion, and 50 Hz rejection.
