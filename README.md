@@ -6,7 +6,7 @@
 
 [Setup and dependencies](DEPENDENCIES.md) · [Release notes](RELEASE-NOTES.md) · [Citation](CITATION.cff) · [Licensing](LICENSE.md)
 
-![TSRCT-PCB-01 system overview showing dual RTD inputs, SSR outputs, USB communication and user-interface connections](figures/system-overview.png)
+![TSRCT-PCB-01 system overview showing dual RTD inputs, SSR outputs, USB communication and user-interface connections](system-overview.png)
 
 The accompanying manuscript describes the circuit, analytical tuning methods, experimental results, and operating scope. The reported experiments characterise temperature control on isolated, dry electrolysis-cell end plates.
 
