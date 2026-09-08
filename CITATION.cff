@@ -33,6 +33,6 @@ keywords:
   - Arduino Nano Every
   - open-source hardware
   - PEM water electrolysis
-# Add date-released using the actual public release date (YYYY-MM-DD).
-# Add doi using the real Zenodo version DOI after the record is created.
-# A single blanket licence is deliberately omitted: see LICENSE.md for scope.
+version: "1.1.1"
+date-released: 2026-09-08
+doi: "10.5281/zenodo.22651658"
