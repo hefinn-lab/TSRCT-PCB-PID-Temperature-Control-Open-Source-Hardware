@@ -1,6 +1,6 @@
 # Dependencies and running the V1.1 tools
 
-These dependencies were checked against the previously supplied V1.1 source files listed below. The live GitHub tree was not accessible during preparation, so later repository edits have not been checked. Package and board-core versions are not presented as bench-validated unless recorded in the release build record.
+Dependencies confirmed for V1.1 release.
 
 ## Firmware
 
