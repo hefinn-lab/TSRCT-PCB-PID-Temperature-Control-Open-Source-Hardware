@@ -1,6 +1,8 @@
 # Dependencies and running the V1.1 tools
 
-Dependencies confirmed for V1.1 release.
+This document describes the dependencies and execution instructions
+for the V1.1 firmware and companion Python tools distributed with
+repository release v1.1.1.
 
 ## Firmware
 
