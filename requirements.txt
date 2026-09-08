@@ -1,0 +1,8 @@
+# Runtime dependencies for the V1.1 nominal and analytical loggers.
+# Python 3.9 or newer.
+pyserial
+openpyxl
+numpy
+pandas
+matplotlib
+Pillow
