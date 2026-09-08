@@ -2,7 +2,7 @@
 
 Public release of TSRCT-PCB-01, an open-source dual-channel Pt100/Pt1000 PID temperature-control platform for Arduino Nano Every, developed for research-scale PEM water electrolysis thermal management.
 
-Repository release **v1.1.1** packages firmware and companion Python tools **V1.1**. Analytical-tuning filenames and commands use the spelling **Analytical** consistently.
+Repository release **v1.1.1** packages firmware and companion Python tools **V1.1**.
 
 This release brings together:
 
