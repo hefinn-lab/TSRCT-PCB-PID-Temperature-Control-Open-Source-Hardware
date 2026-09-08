@@ -4,7 +4,7 @@ type: software
 title: "An Open-Source Dual-Channel RTD Thermal-Control Platform for Research-Scale PEM Water Electrolysis Balance-of-Plant Integration"
 version: "1.1.1"
 date-released: 2026-09-08
-doi: "10.5281/zenodo.22651658"
+doi: "10.5281/zenodo.22640397"
 authors:
   - family-names: Finn
     given-names: Hamish
