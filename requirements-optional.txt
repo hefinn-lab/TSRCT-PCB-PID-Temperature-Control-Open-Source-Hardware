@@ -1,3 +1,0 @@
-# Optional nonlinear model cross-check in the analytical logger.
-# Install requirements.txt first.
-scipy
